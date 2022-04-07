@@ -23,3 +23,7 @@ function add(num1, num2){
     var sum = num1 + num2;
     console.log(sum);
 }
+/*
+git config --global user.name "MTXayko"
+git config --global user.email "matias.marin.cariaga@alumnos.sip.cl"
+*/ 
