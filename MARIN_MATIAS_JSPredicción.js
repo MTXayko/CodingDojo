@@ -7,5 +7,4 @@ function myBirthYearFunc(){
     function myBirthYearFunc(EntradaAñoNacimiento){
             console.log("Nací en " + EntradaAñoNacimiento);
         }
-        //) jjhjhjhjhjhjh
-
+        //) j
